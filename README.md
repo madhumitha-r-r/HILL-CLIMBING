@@ -1,6 +1,6 @@
 <h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
-<h3>Name:             </h3>
-<h3>Register Number:             </h3>
+<h3>Name: MADHUMITHA R R           </h3>
+<h3>Register Number:212224240083             </h3>
 <H3>Aim:</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
 <h2> Theory: </h2>
@@ -59,3 +59,9 @@ Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 1  Solution :  Artificial Intelligencf<br>
 Score: 0  Solution :  Artificial Intelligence<br>
+OUTPUT:
+<img width="959" height="596" alt="image" src="https://github.com/user-attachments/assets/1113fb4d-2284-4062-a491-7a9a19a4f278" />
+
+RESULT:
+
+Therefore, the Simple Hill Climb Algorithm Implemented successfully.
